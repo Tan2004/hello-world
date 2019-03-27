@@ -26,3 +26,4 @@ hi 6
 change 1 in pc
 change 2 in pc to master
 change for stash
+test use of git add -p
